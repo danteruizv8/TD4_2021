@@ -6,8 +6,8 @@
 -- Grupo nº: XX.
 -- Integrantes:
 --
---		Ruiz, Dante Nelson				 Leg. nº:49881
---		Albarran, Gustavo.   		  	 Leg. nº:02524
+--		Ruiz, Dante Nelson			 Leg. nº:49881
+--		Albarran, Gustavo.   		  	 Leg. nº:43143
 --		
 --
 -- Fecha de Entrega: xx/xx/2021.
